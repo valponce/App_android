@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pays">
+    <item>France</item>
+    <item>USA</item>
+    <item>England</item>
+    <item>Spain</item>
+    </string-array>
+
+    <string-array name="symbole">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>LIV</item>
+        <item>EUR</item>
+    </string-array>
+
+    <integer-array name="images">
+        <item>@drawable/image_fr</item>
+        <item>@drawable/image_fr</item>
+        <item>@drawable/image_fr</item>
+        <item>@drawable/image_fr</item>
+    </integer-array>
+</resources>
